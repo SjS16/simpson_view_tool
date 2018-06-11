@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View specific methods for applications including a copyright generator.}
   spec.description   = %q{Copyright generator which automatically updates the year, allows you to put in your name and a message.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "http://www.linkedin.com/in/sjs16"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

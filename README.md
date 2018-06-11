@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SimpsonViewTool::Renderer.copyright "Steph Simpson", "All rights reserved"
+```
 
 ## Development
 
